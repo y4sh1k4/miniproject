@@ -44,14 +44,14 @@ nav{
 }
 
 .input{
-    width:32rem;
-    height:2rem;
-    background:black;  
-    margin-right: 4rem;
+    width:38rem;
+    height:2.35rem;
+    background:white;  
+    margin-right: 3.25rem;
 }
 .input input{
-    width:30rem;
-    height:2rem;
+    width:35rem;
+    height:2.35rem;
     padding:10px 20px;
     border:none;
 }
@@ -62,7 +62,7 @@ nav{
 
 .searchbtn{
     background:white;
-    flex-basis:10%;
+    flex-basis:5%;
     height:2rem;
     border: none;
     outline: none;
@@ -71,8 +71,8 @@ nav{
 
 .loginbtn{
     background:white;
-    width:8rem;
-    height: 2rem;
+    width:7rem;
+    height: 1.85rem;
     color:#2875F1;
     border:none;
     outline:none;
@@ -89,8 +89,8 @@ nav{
     text-decoration: none;
     color:white;
     font-family:sans-serif;
-    font-weight: 700;
-    
+    font-weight: 600;
+    font-size: 1rem;
 }
 
 .list ul{
